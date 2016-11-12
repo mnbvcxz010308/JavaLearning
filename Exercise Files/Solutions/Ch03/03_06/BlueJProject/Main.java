@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class Main here.
+ * This is a class to demonstrate JavaDoc functionality.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Vipin G S
+ * @version 12/11/2016
  */
 public class Main
 {
